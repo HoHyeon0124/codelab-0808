@@ -8,3 +8,6 @@
 - git remote add origin http://github.com/HoHyeon0124/codelab-0808.git
 
 바뀐내용
+내용을 바꾸고.
+한시간동안
+
